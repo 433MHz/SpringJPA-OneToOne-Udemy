@@ -1,5 +1,4 @@
-package pl.krystian;
-
+package pl.krystian.entity;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
