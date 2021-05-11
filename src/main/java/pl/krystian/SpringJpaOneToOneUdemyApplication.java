@@ -8,7 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringJpaOneToOneUdemyApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringJpaOneToOneUdemyApplication.class, args);
+		SpringApplication.run(SpringJpaOneToOneUdemyApplication.class, args);		
 	}
 
 }
